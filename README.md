@@ -7,6 +7,6 @@
 
  <div align="center">
 
-###$\color{#8c8ea8}{\textsf{test...}}$
+###$\color{#8c8ea8}{\textsf{hi,, I go by rayn/rain or rly whatevr uhm,, she/any prns kinda dgaf but she pref ig uh idrk man im #offtab 24/7 so w2i ig}}$
 
 </div>
