@@ -7,6 +7,6 @@
 
  <div align="center">
 
-### $\color{#8c8ea8}{\textsf{test...}}$
+###$\color{#8c8ea8}{\textsf{test...}}$
 
 </div>
