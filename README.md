@@ -5,8 +5,9 @@
   <img src="https://github.com/user-attachments/assets/e39f8eb5-745b-4c6b-8f25-89ce7f41fa41" width="530">
 </div>
 
- <div align="center">
+<div align="center">
 
-###$\color{#8c8ea8}{\textsf{hi,, I go by rayn/rain or rly whatevr uhm,, she/any prns kinda dgaf but she pref ig uh idrk man im #offtab 24/7 so w2i ig}}$
+### $\color{#8c8ea8}{\textsf{hi,, I go by rayn/rain or rly whatevr uhm,, she/any prns kinda dgaf but she pref ig uh idrk man im \#offtab 24/7 so w2i ig}}$
 
 </div>
+
