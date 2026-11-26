@@ -18,5 +18,3 @@ $\color{#000000}{\textsf{also im so sorry but i am only somewhat good @ being so
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/e39f8eb5-745b-4c6b-8f25-89ce7f41fa41" width="850">
-</div>
