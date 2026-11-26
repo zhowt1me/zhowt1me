@@ -9,13 +9,13 @@
 
 <div align="center">
 
-$\color{#9da0ba}{\textsf{hi,, I go by rayn/rain or rly whatevr uhm,,}}$
+$\color{#9da0ba}{\textsf{𝐡𝐢..𝐢 𝐠𝐨 𝐛𝐲 𝐫𝐚𝐲𝐧/𝐫𝐚𝐢𝐧 𝐨𝐫 𝐫𝐥𝐲 𝐰𝐡𝐚𝐭𝐞𝐯𝐫,,}}$
 <br>
-$\color{#6e718c}{\textsf{she/any prns kinda dgaf but she pref ig}}$
+$\color{#6e718c}{\textsf{𝐢𝐝𝐠𝐚𝐟 𝐚𝐛𝐭 𝐩𝐫𝐧𝐬 𝐛𝐮𝐭 𝐬𝐡𝐞/𝐚𝐧𝐲 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐡𝐞 𝐩𝐫𝐞𝐟 𝐤𝐢𝐧𝐝𝐚?}}$
 <br>
-$\color{#36384a}{\textsf{uh idrk man im ♯offtab 24/7 so w2i ig}}$
+$\color{#36384a}{\textsf{𝐮𝐡 𝐩𝐫𝐭𝐲 𝐨𝐟𝐭𝐞𝐧 𝐚𝐤𝐚 𝐦𝐨𝐬𝐭 𝐭𝐢𝐦𝐞𝐬 𝐢𝐦 𝐨𝐧 , 𝐢𝐦 𝐨𝐟𝐟𝐭𝐚𝐛 𝐨𝐫 𝐚𝐟𝐤 𝐝𝐨 𝐰𝟐𝐢}}$
 
-$\color{#000000}{\textsf{also im so sorry but i am only somewhat good @ being social n shit}}$
+$\color{#000000}{\textsf{𝘢𝘭𝘴𝘰 𝘨𝘪𝘵𝘩𝘶𝘣 𝘯 𝘭𝘪𝘯𝘬𝘴 𝘴𝘵𝘪𝘭𝘭 𝘢 𝘣𝘪𝘨 𝘸𝘪𝘱 𝘭𝘰𝘭}}$
 
 </div>
 
