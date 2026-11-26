@@ -12,6 +12,7 @@ $\color{#9da0ba}{\textsf{hi,, I go by rayn/rain or rly whatevr uhm,,}}$
 $\color{#6e718c}{\textsf{she/any prns kinda dgaf but she pref ig}}$
 <br>
 $\color{#36384a}{\textsf{uh idrk man im ♯offtab 24/7 so w2i ig}}$
+$\color{#000000}{\textsf{also Im so sorry but i am only somewhat good @ being social n shit}}$
 
 </div>
 
