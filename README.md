@@ -7,11 +7,11 @@
 
 <div align="center">
 
-$\color{#8c8ea8}{\textsf{hi,, I go by rayn/rain or rly whatevr uhm,,}}$
+$\color{#9da0ba}{\textsf{hi,, I go by rayn/rain or rly whatevr uhm,,}}$
 <br>
-$\color{#8c8ea8}{\textsf{she/any prns kinda dgaf but she pref ig}}$
+$\color{#6e718c}{\textsf{she/any prns kinda dgaf but she pref ig}}$
 <br>
-$\color{#8c8ea8}{\textsf{uh idrk man im \#offtab 24/7 so w2i ig}}$
+$\color{#36384a}{\textsf{uh idrk man im ♯offtab 24/7 so w2i ig}}$
 
 </div>
 
