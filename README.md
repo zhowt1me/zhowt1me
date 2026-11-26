@@ -18,3 +18,7 @@ $\color{#36384a}{\textsf{uh idrk man im ♯offtab 24/7 so w2i ig}}$
 $\color{#000000}{\textsf{also im so sorry but i am only somewhat good @ being social n shit}}$
 
 </div>
+
+<p align="center">
+  <img width="205" height="41" alt="1000012388" src="https://github.com/user-attachments/assets/ecfce254-8668-4f8f-a84c-3002b9b0f1d4" />
+</p>
